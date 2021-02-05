@@ -46,6 +46,10 @@ PS: Tried to handle data in different ways while using GET and POST methods
 to show my skills but because of limited source and API documentation, it remain limited.
 I i believe i could do much more with more soruce of documentation.
 
+Reagrding to scenarios i would not be able have situations like; Correspondence between data and field types,
+Allowed number of characters,Allowed data bounds and limits. 
+Even if i send nll value it was accepting. 
+
 Thanks 
 
 
