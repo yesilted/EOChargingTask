@@ -42,5 +42,11 @@ Used Cukes runner to trigger test cases and to connect required files
 
 which step definitions,features,plugins and others
 
+PS: Tried to handle data in different ways while using GET and POST methods
+to show my skills but because of limited source and API documentation, it remain limited.
+I i believe i could do much more with more soruce of documentation.
+
+Thanks 
+
 
 05/02/2021
